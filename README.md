@@ -1,6 +1,6 @@
 <h2 align="center">⊹ Shirlya Lima ⊹</h2>
 
-<p align="center">Densenvolvedora Full-Stack em formação 👩‍💻</p> 
+<p align="center">Densenvolvedora Front-End em formação 👩‍💻</p> 
 
 ###
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/VVM5bDD/img-git.png"  align="right"></a>
