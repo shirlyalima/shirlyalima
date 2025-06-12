@@ -18,13 +18,13 @@ I also love learning languages ​​and immersing myself in different cultures.
 </div>
 
 ###
-💡 Skills and Interests:
+⊹ Skills and Interests:
 * Languages: Python, HTML, CSS, JavaScript.
 * Tools: PySimpleGUI, Git, VS Code.
 * Interests: Automation, web development, and graphical interfaces.
 
 ---
 <div align="center">
-📬 Get in touch with me!
+⊹ Get in touch with me!
 Want to collaborate, share ideas, or just chat? Let's talk!
 </div>
