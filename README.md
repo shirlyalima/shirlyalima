@@ -1,14 +1,14 @@
 <h2 align="center">⊹ Shirlya Lima ⊹</h2>
 
-<p align="center">Densenvolvedora Full Stack em formação 👩‍💻</p> 
+<p align="center">Systems Analyst and Developer 👩‍💻</p> 
 
 ###
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/VVM5bDD/img-git.png"  align="right"></a>
 
 
-Apaixonada por tecnologia, música e criatividade. Adoro explorar o mundo da programação, resolver problemas e criar projetos úteis e interessantes. 
-Estou sempre estudando linguagens de programação e explorando novas tecnologias.
-Também amo aprender línguas e mergulhar em culturas diferentes. Além do português e do inglês, estou estudando francês. 
+Passionate about technology, music, and creativity. I love exploring the world of programming, solving problems, and creating useful and interesting projects.
+I am always studying programming languages ​​and exploring new technologies.
+I also love learning languages ​​and immersing myself in different cultures. In addition to Portuguese and English, I am studying French.
 
 ###
 <div align="center">
