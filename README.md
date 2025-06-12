@@ -1,6 +1,6 @@
 <h2 align="center">⊹ Shirlya Lima ⊹</h2>
 
-<p align="center">Systems Analyst and Developer 👩‍💻</p> 
+<p align="center">Systems Analyst and Developer </p> 
 
 ###
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/VVM5bDD/img-git.png"  align="right"></a>
