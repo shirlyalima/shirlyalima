@@ -3,12 +3,7 @@
 <p align="center">Systems Analyst and Developer </p> 
 
 ###
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/VVM5bDD/img-git.png"  align="right"></a>
-
-
 Passionate about technology, music, and creativity. I love exploring the world of programming, solving problems, and creating useful and interesting projects.
-I am always studying programming languages ​​and exploring new technologies.
-I also love learning languages ​​and immersing myself in different cultures. In addition to Portuguese and English, I am studying French.
 
 ###
 <div align="center">
@@ -18,11 +13,6 @@ I also love learning languages ​​and immersing myself in different cultures.
 </div>
 
 ###
-⊹ Skills and Interests:
-* Languages: Python, HTML, CSS, JavaScript.
-* Tools: PySimpleGUI, Git, VS Code.
-* Interests: Automation, web development, and graphical interfaces.
-
 ---
 <div align="center">
 ⊹ Get in touch with me!
