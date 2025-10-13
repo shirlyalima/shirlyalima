@@ -11,6 +11,7 @@ Passionate about technology, music, and creativity. I love exploring the world o
   <a href="mailto:shirlyalima.dev@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"></a>
   <a href="https://www.linkedin.com/in/shirlya"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"></a>
   <a href="https://sldevmc.itch.io/"><img src="https://img.shields.io/static/v1?message=Play%20on%20Itch.io&logo=itch.io&label=&color=fa5c5c&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="itchio logo"></a>
+  <a href="https://chromewebstore.google.com/detail/nmefhbmcdilnmmidmnklfjjajppjnpin?utm_source=item-share-cb"><img src="https://img.shields.io/badge/Chrome%20Extension-42E549?style=for-the-badge&logo=googlechrome&logoColor=white" height="30" alt="extension logo"></a>
 </div>
 
 ###
